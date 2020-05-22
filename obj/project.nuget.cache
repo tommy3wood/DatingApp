@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rTxkjN5UXpE+T21s1q62NByGSSTlf6pD2sclayHQtay3A4RAJUu7KNR6V4L8ezBa4m/lkcMfVBN4L6qGnamL3A==",
+  "dgSpecHash": "kNgM+MZlQEELJ89/+OM2I9hJOqIb9fubyLx/q02f7iHzUpiiw3EzdNCP2G/nBX+xPGK9xHO10lv3BfHdB6e1ig==",
   "success": true,
   "projectFilePath": "/Users/3wood/Desktop/dating_app/DatingApp/DatingApp.API/DatingApp.API.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,9 @@
     "/Users/3wood/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.2/microsoft.extensions.logging.abstractions.3.1.2.nupkg.sha512",
     "/Users/3wood/.nuget/packages/microsoft.extensions.options/3.1.2/microsoft.extensions.options.3.1.2.nupkg.sha512",
     "/Users/3wood/.nuget/packages/microsoft.extensions.primitives/3.1.2/microsoft.extensions.primitives.3.1.2.nupkg.sha512",
+    "/Users/3wood/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.5.1/microsoft.identitymodel.jsonwebtokens.6.5.1.nupkg.sha512",
+    "/Users/3wood/.nuget/packages/microsoft.identitymodel.logging/6.5.1/microsoft.identitymodel.logging.6.5.1.nupkg.sha512",
+    "/Users/3wood/.nuget/packages/microsoft.identitymodel.tokens/6.5.1/microsoft.identitymodel.tokens.6.5.1.nupkg.sha512",
     "/Users/3wood/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.2/sqlitepclraw.bundle_e_sqlite3.2.0.2.nupkg.sha512",
     "/Users/3wood/.nuget/packages/sqlitepclraw.core/2.0.2/sqlitepclraw.core.2.0.2.nupkg.sha512",
     "/Users/3wood/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.2/sqlitepclraw.lib.e_sqlite3.2.0.2.nupkg.sha512",
@@ -35,7 +38,9 @@
     "/Users/3wood/.nuget/packages/system.collections.immutable/1.7.0/system.collections.immutable.1.7.0.nupkg.sha512",
     "/Users/3wood/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "/Users/3wood/.nuget/packages/system.diagnostics.diagnosticsource/4.7.0/system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
+    "/Users/3wood/.nuget/packages/system.identitymodel.tokens.jwt/6.5.1/system.identitymodel.tokens.jwt.6.5.1.nupkg.sha512",
     "/Users/3wood/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/3wood/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "/Users/3wood/.nuget/packages/system.text.json/4.7.1/system.text.json.4.7.1.nupkg.sha512"
   ],
   "logs": []
