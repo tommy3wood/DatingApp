@@ -60,11 +60,9 @@ namespace DatingApp.API
 
             app.UseAuthentication();
 
-            app.UseAuthorization();
-
             app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
 
-
+            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
